@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "purecss": "^2.0.5",
     "vue": "^3.0.5"
   },
   "devDependencies": {
