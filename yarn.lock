@@ -330,6 +330,11 @@ postcss@^8.1.10, postcss@^8.2.1:
     nanoid "^3.1.20"
     source-map "^0.6.1"
 
+purecss@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/purecss/-/purecss-2.0.5.tgz#9b9331155ae8d96bbbf876d98bb848c6925b4e2d"
+  integrity sha512-T9yg6NwJf1fgjUs+Vo0cEhHAR7lnkYbqhNYGdKzL9KjZ0ZECvvYZ2pgvOTN3jDa+1mpouMFaskuffG+lOADwxQ==
+
 resolve@^1.19.0:
   version "1.20.0"
   resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.20.0.tgz#629a013fb3f70755d6f0b7935cc1c2c5378b1975"
