@@ -26,7 +26,8 @@
   <p>
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
-  </p>  
+  </p>
+  <div> Forcing Build</div> 
 </template>
 
 <script lang="ts">
